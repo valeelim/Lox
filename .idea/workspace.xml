@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a406ab-1b0c-446b-80ac-6580ddb0b2d2" name="Changes" comment="" />
+    <list default="true" id="09a406ab-1b0c-446b-80ac-6580ddb0b2d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Resolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/Lox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/lox" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vlrnlm/lox/lox" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +47,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,21 +59,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GenerateAst.executor&quot;: &quot;Coverage&quot;,
-    &quot;Gradle.Build jlox.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.jlox [:AstPrinter.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.jlox [:GenerateAst.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.jlox [:Lox.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GenerateAst.executor": "Coverage",
+    "Gradle.Build jlox.executor": "Run",
+    "Gradle.jlox [:AstPrinter.main()].executor": "Run",
+    "Gradle.jlox [:GenerateAst.main()].executor": "Run",
+    "Gradle.jlox [:Lox.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
